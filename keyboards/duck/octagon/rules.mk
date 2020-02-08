@@ -1,1 +1,1 @@
-DEFAULT_FOLDER = duck/octagon/v2
+DEFAULT_FOLDER = duck/octagon/v3
